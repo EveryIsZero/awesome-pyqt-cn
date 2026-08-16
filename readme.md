@@ -62,3 +62,4 @@ PyQt/PySide 中文开发者必备资料合集，内容涵盖PyQt4/5/PySide/Qt。
 
 [Chinese Icon]: https://cdn.rawgit.com/chroming/awesome-pyqt-cn/db4ee41b/media/chinese.png
 [English Icon]: https://cdn.rawgit.com/chroming/awesome-pyqt-cn/db4ee41b/media/english.png
++ [Studio 0（0号工坊）— 免费 Modbus 调试/仿真上位机，免代码图形组态 + Python 脚本](https://github.com/EveryIsZero/Studio-0)
